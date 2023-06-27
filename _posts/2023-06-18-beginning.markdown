@@ -1,0 +1,76 @@
+---
+layout: post
+title: 'There’s a lot more to learn - the Designing 💗'
+date: 2023-06-18
+---
+
+<p class="intro"><span class="dropcap">I</span> am thrilled to learn UI/UX Designing under the guidance of Nandini di & Khushboo who are super talented designers here at Ryaz. I realized the power of the combination of designing & coding while I started my project during my training. </p>
+
+I had to design it myself & that made me think this is another world with so much to learn (I was so bad at it 😛). But yes, with improvements & feedbacks from my mentor, I think we did a pretty good job with the designing at the end as far as the project was concerned. Now, I wish to learn it properly, step by step & I can find no better guide than our design mentors here 💗
+
+Let’s dive into the first day! (did in 2 half days tho)
+
+Things learnt from the resources given by my mentors:
+
+#### 1. Color Theory
+
+##### Terminologies
+
+1. Hue: Hue is the color in its natural state without any alterations of shadow or brightness. The colors present in the color wheel are in its natural state itself.
+2. Value: Amount of brightness or darkness in a color (0% = black & 100% = white)
+3. Saturation: Intensity of a color (-100% = gray & 100% = vivid/bright)
+4. Harmony: It's the similarity b/w different colors
+5. Contrast: a noticeable difference b/w colors
+
+An important point found: To have a harmony between colors, is necessary between them exist a amount color from the other.
+
+6. The rule of 60 30 10: Use 3 colors as a beginner in the given ratio
+7. Shadows: Shadows aren't black, these are darkened version of the base color itself.
+8. Primary Colors: Red, Yellow, Blue
+9. Secondary Colors: Result of mixing of the primary colors - Purple, Green, Orange
+10. Tertiary Colors: Created by combining a primary color with a secondary color
+11. Cool Colors: Shades of green, blue & purple
+12. Warm Colors: Shades of yellow, orange and red.
+13. Neutral Tones: Light Blue, Blue, Dark Blue & same goes for green and purple
+14. Monochromatic: Adding a 10-90% white or black layer on top of a color, creating different shades
+15. Analogous Colors: These are next to each other on the color wheel
+16. Complementary Colors: These are opposite to each other on the color wheel
+17. Triadic: Using 3 colors that are equally spaced from each other on the color wheel. Creates dynamic & bright pages
+18. Contrast: Dark & Light combination
+19. Tools: Coolors, Material Design Color System, Gradient Hunt
+20. Color Psychology: Colors for CTA btns, error btns etc
+
+#### 2. Typography
+
+##### Terminologies
+
+1. Typeface: Entire family of fonts (of different weights) eg Helevtica
+2. Fonts: Member of a typeface -> Helvetica Regular, Helvetica Bold etc
+3. Font Families of different fonts also -> serif, sans-serif, etc (sans-serif types - Arial, Helvetica, etc)
+4. Spacing, font weights, letter-spacing, font sizes, colors, font selection all matters
+5. Don't mix different fonts (bad UI)
+6. Can use animations too in typography.
+
+An important point: Don't let the user think.
+
+#### 3. Being familiar with Figma
+
+I went through the following videos to get familiar with working in figma.
+
+1. [Explore Ideas](https://help.figma.com/hc/en-us/articles/4405269899287--Beginner-1-Explore-ideas): Learnt about wireframes & basic hotkeys
+2. [Create Designs](https://help.figma.com/hc/en-us/articles/4405328886935--Beginner-2-Create-designs): Adding images, icons, creating components & more advanced stuff
+3. [Build Prototypes](https://help.figma.com/hc/en-us/articles/4405337257751--Beginner-3-Build-prototypes): Prototypes, presenting view studied
+4. [Prepare for handoff](https://help.figma.com/hc/en-us/articles/4405338399895--Beginner-4-Prepare-for-handoff-): Thumbnails, other permissions for production
+
+Practised wireframing part as of now.
+The link can be found [here](https://www.figma.com/file/xNYznb2oA4DBTQ0z2AvmID/understanding-wireframes?type=design&node-id=0-1&t=hfTqLM7vZ9tKagEQ-0).
+
+Next thing on the plate: Designing a basic landing page! :)
+
+Done with basic mobile landing page. Tomorrow I'll design the menu part & complete the task with tablet & desktop screens.
+
+The link to the figma file can be found [here](https://www.figma.com/file/rE7iHB3EF3m4xzyQDpZDHj/T1-Basic-Landing-Page?type=design&node-id=0%3A1&t=mX2otdt06cTevN9o-1).
+
+The prototype can be found [here](https://www.figma.com/proto/rE7iHB3EF3m4xzyQDpZDHj/T1-Basic-Landing-Page?type=design&node-id=2-2&scaling=scale-down&page-id=0%3A1).
+
+Byees!
