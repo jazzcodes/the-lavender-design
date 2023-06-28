@@ -1,0 +1,142 @@
+---
+layout: post
+title: 'Laws of UX'
+date: 2023-06-27
+---
+
+<p class="intro"><span class="dropcap">T</span>he field of UI/UX Design demands the following of some particular laws that help to understand the user psychology and helps create efficient & pretty looking interfaces.</p>
+
+One of my mentors, Khushboo shared a link that explains these laws in a comprehensive manner.
+The guide can be found [here]().
+
+Following is an account of whatever I learned from it:
+
+##### 1. Aesthetic-Usablity Effect
+
+This law basically explains the relation between the interface being aesthetic & its perception of being flawless in the eyes of the users. Experiments have shown that when the UI is aesthetic/ pleasing to the user, often they neglect minor incoveniences in the designs.
+
+##### 2. Doherty Threshold
+
+It explains that a computer & a user must respond to each other in less than 400 ms to increase the efficiency & reduce the wait time for the both.
+
+Animations, loaders are visually appealing and instills a sense of progress in the users and can help them understand as well withstand that some process is running in the background.
+
+Not only that, even if some process takes less time, adding a loader/ showing a progress purposely would help the users build a sense of trust in the process. It's a good practice.
+
+##### 3. Fitts Law
+
+The time to acquire a target in the site is a function of the distance from the target & the size of the target.
+
+Basically, it is directly proportional to the distance & inversely proportional to the size of the target.
+
+##### 4. Goal-Gradient Effect
+
+According to it, the more the users are closer to their goals, faster do they work to achieve their goals.
+
+By showing artificial progress, or visualizing the process and steps etc, we can motivate the users to complete their tasks and keep them engaged.
+
+##### 5. Hick's Law
+
+The time it takes to make a decision depends on the number of choices given to the user.
+
+Simplify the choices, do not increase the cocgnitive load on the user.
+
+We can ensure progressive onboarding i.e helping the user understand the app with instructions & revealing the complete features afterwards e.g Slack's onboarding experience.
+
+We donot have to overwhelm the users by highlighting recommended options.
+
+But yes, we don't have to simplify things to the point of abstraction, too.
+
+##### 6. Jacob's Law
+
+According to this law, the users would have a pre-defined knowledge of using our app as per thier experiences with the similar apps. We need to take benefit of this existing mental model & provide a better interface for the users. And yes, we donot have to make it complex for them to learn the new model.
+Even if we make cahnges to our model in future, we should give our users some bracket of time to understand the new one or continue using the previous one untill they become comfortable with the new one.
+
+##### 7. Law of Proximity
+
+The elements that are near to each other, tend to be related to each other & are grouped together. They seem to have similar functionality too.
+
+##### 8. Law of Prägnanz
+
+This tells that the users tend to understand/interpret complex images in their simplest form possible to minimize the cognitive load.
+
+##### 9. Law of Similarity
+
+Similar looking elements will be understood to have similar functionality too & would be understood to be a part of the same group. However, this may not be the case necessarily.
+
+e.g the links must be visually separated from the normal text on the website.
+
+##### 10. Law of Uniform Connectedness
+
+This states that the elements that appear to be connected visually e.g via lines, flows etc seem to belong to a group having similar functionality than the ones that are not connected.
+
+##### 11. Miller's Law
+
+According to this, we need to display our information in chunks so that the user remembers the details.
+The expected number of points that a user can hold short-term is 7 plus or minus 2 roughly.
+
+##### 12. Occam's Razor
+
+It states that among the hypotheses that predict equally well, the one with the mimimum assumptions need to be selected.
+
+It means that whenever possible try to remove extraneous elements in order to reduce the complexity without compromising the functionality. The task should be said to be completed only after removal of maximum extraneous elements.
+
+##### 13. The Pareto Principle
+
+I remember, we studied this in one of our electives back then in our undergraduate program. The subject's name was - "Total Quality Management" and see here it comes handy in improving the quality of experience of the intended user.
+
+It states that, in most of the cases, 80% of the outcomes/effects occur due to 20% of the causes.
+This leads to a conclusion that inputs & outputs aren't evenly distributed & that we need to focus of the group of elements that affect the users more postively.
+
+##### 14. Parkinson's Law
+
+This states that any task will inflate (i.e take more time to complete) until all of the available time is spent.
+
+This leads to a conclusion that we need to reduce the time a user spends on a task and that can be done if we estimate the time that will actually be required to do the task by the user rather than relying on the expected time.
+
+Some ways in which we can reduce the user time & effort can be seen in the example when we use autofill in the forms that helps in quick bookings, shopping etc. preventing the task inflation.
+
+##### 15. Peak-End Rule
+
+According to this, the user remembers the peak moments more vividly e.g the end/ the moments of wait/ some intense moment.
+
+Not only this, the negative experiences are remembered more vividly by the users.
+
+We need to identify the moment when our productf is more useful, helpful to the user.
+
+e.g In Uber while waiting for a ride can lead to cancelling of it due to increased delay but this is carefully being handled by Uber as they show the progressive movement of the car available on the map, showing time being taken along side to involve the user & engage them. Not only this, it assures the user & updates the user with the current status of the ride real-time.
+
+Another example of MailChimp is in which mail campaigns are done. The fun-filled interface helps the user relieve the load of a moment that can be stressful for the users.
+
+##### 16. Serial Position Effect
+
+The principle states that the users have the propensity (tendency) to remember the first & the last items in the list/series.
+
+So, we need to write the most important of the things in the beginning & the end of the list & write the least important ones, somewhere in the middle. e.g elements in a nav bar
+
+##### 17. Tesler's Law
+
+This is also known as the law of conservation of the complexity. This states that a certain amount of complexity is going to remain in a system. We need to work on the internal/inherent complexities via design & development to reduce the burden from the user.
+But yes, we donot need to simplify things to the point of abstraction.
+
+##### 18. Postel's Law
+
+According to this, we need to be liberal to what we accept from the users (inputs, feedbacks) and be conseravtive to what we send to the users (outputs).
+
+##### 19. Law of Common Region
+
+According to this, when a group of elements are observed to share a common region, they are expected to be related to each other. They have defined boundaries & can even share same background color to show a commonality in the region.
+
+##### 20. Von Restorff Effect
+
+This is also known as the principle of isolation. It says that the most unique element is tend to be remembered more vividly by the user as compared to the similar looking ones & are treated as the salient features.
+
+But in order to make things look salient/ different from the normal ones, we don't only have to rely on the contrast of colors as it won't be helpful for the ones with color deficiency. Not only that, we need to take care of the ones with motion sensitivity while using motion to communicate the contrast.
+
+##### 21. Zeigarnik Effect
+
+This states that people tend to remember the incomplete tasks or the interrupted ones better than the completed ones. So, we should provide progress bar kinda elements to help indicate artificial process & motivate the user to complete it as already discusses in one of the laws - "Goal-Gradient Effect". Also, we can add a link for additional information to engage users to read more about the topic if they like.
+
+That's it about the UX Laws guide. It helped me get insights into what are the best practices in UX and I'd definitely try to use them as I do my tasks further assigned by my mentors!
+
+Byeees!
