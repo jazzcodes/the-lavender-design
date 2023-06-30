@@ -7,7 +7,7 @@ date: 2023-06-27
 <p class="intro"><span class="dropcap">T</span>he field of UI/UX Design demands the following of some particular laws that help to understand the user psychology and helps create efficient & pretty looking interfaces.</p>
 
 One of my mentors, Khushboo shared a link that explains these laws in a comprehensive manner.
-The guide can be found [here]().
+The guide can be found [here](https://lawsofux.com/).
 
 Following is an account of whatever I learned from it:
 
